@@ -1,5 +1,5 @@
 import { db } from "@/lib/db";
-import { posts } from "@/lib/schema/authSchema";
+import { posts } from "@/lib/schema/postSchema";
 
 export const query = async () => {
   try {
