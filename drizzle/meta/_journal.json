@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1730618891656,
+      "tag": "20241103072811_lying_kylun",
+      "breakpoints": true
+    }
+  ]
+}
